@@ -1,0 +1,10 @@
+prefix=/home/tangly/work2/rklinux/px30_linux6.1_20250725/buildroot/output/rockchip_px30_64/host
+exec_prefix=/home/tangly/work2/rklinux/px30_linux6.1_20250725/buildroot/output/rockchip_px30_64/host
+libdir=/home/tangly/work2/rklinux/px30_linux6.1_20250725/buildroot/output/rockchip_px30_64/host/lib
+includedir=/home/tangly/work2/rklinux/px30_linux6.1_20250725/buildroot/output/rockchip_px30_64/host/include
+
+Name: blkid
+Description: Block device id library
+Version: 2.39.3
+Cflags: -I${includedir}/blkid
+Libs: -L${libdir} -lblkid

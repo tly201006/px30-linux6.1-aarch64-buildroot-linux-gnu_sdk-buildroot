@@ -1,0 +1,22 @@
+=head2 Sun Jul 27 15:24:38 2025: C<Module> L<XML::Parser|XML::Parser>
+
+=over 4
+
+=item *
+
+C<installed into: /home/tangly/work2/rklinux/px30_linux6.1_20250725/buildroot/output/rockchip_px30_64/host/lib/perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.47>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

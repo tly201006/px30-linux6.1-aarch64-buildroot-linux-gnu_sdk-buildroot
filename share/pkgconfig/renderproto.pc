@@ -1,0 +1,7 @@
+prefix=/home/tangly/work2/rklinux/px30_linux6.1_20250725/buildroot/output/rockchip_px30_64/host
+includedir=${prefix}/include
+
+Name: RenderProto
+Description: Render extension headers
+Version: 0.11.1
+Cflags: -I${includedir}
